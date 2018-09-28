@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **Demonstrating use of React and JSX, this application renders a tile-based game that challenges the player's memory.**
 
-**Materialize with custom CSS was used to create the layout, navigation bar, and footer**
+**Materialize with custom CSS was used to style the layout, navigation bar, and footer components**
 
 
 1. The application renders 12 different tiles, each depicting a different Pokemon, to the screen. Each image is listening for click events.
