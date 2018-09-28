@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "image": "https://img.pokemondb.net/artwork/bulbasaur.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Charmander",
+      "image": "https://img.pokemondb.net/artwork/charmander.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pikachu",
+      "image": "https://img.pokemondb.net/artwork/pikachu.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Blastoise",
+      "image": "https://img.pokemondb.net/artwork/blastoise.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Butterfree",
+      "image": "https://img.pokemondb.net/artwork/butterfree.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Meowth",
+      "image": "https://img.pokemondb.net/artwork/meowth.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Starmie",
+      "image": "https://img.pokemondb.net/artwork/starmie.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lapras",
+      "image": "https://img.pokemondb.net/artwork/lapras.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Zapdos",
+      "image": "https://img.pokemondb.net/artwork/zapdos.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Gengar",
+      "image": "https://img.pokemondb.net/artwork/gengar.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Psyduck",
+      "image": "https://img.pokemondb.net/artwork/psyduck.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Snorlax",
+      "image": "https://img.pokemondb.net/artwork/snorlax.jpg"
+    }
+]

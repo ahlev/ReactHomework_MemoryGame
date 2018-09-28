@@ -1,0 +1,16 @@
+nav {
+    background-color:  #1f7cd8 !important;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+brand-logo {
+    font-size: 15px !important;
+    font-weight: bolder;
+    color: yellow;
+}
+
+#statustext {
+    font-size: 17px;
+    color: yellow;
+}

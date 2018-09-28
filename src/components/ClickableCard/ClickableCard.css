@@ -1,0 +1,26 @@
+
+
+img { /*Still not quite maintaining images sizes as dynamically as I would like*/
+    display: block;
+    max-width:230px;
+    max-height:140px;
+
+    margin: auto;
+}
+
+
+.card {
+    height: 160px;
+    background: rgb(255, 255, 255);
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+    border: solid darkblue 2px;
+    transition: transform 150ms ease-in-out;
+  }
+  
+  .card:hover {
+      transform: scale(1.05) ;
+      box-shadow: 0 6px 5px -2px #69a7ff
+  }
+  
